@@ -8,9 +8,6 @@ The source code for this application is comprised of:
 
 · A python file that takes information from the Animal Center Database and presents it in a python dashboard.
 
-# Video Overview of Functionality
-
-![](blob:https://stackedit.io/9ab45a30-5948-4c3e-851c-d6c60edbf712)
 
 # Motivation
 
